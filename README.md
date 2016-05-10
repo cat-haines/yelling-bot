@@ -4,10 +4,10 @@ A Slack(Node)Bot to help you get people's attention when using @here.
 
 ## TODO:
 
-[ ] Finish writing README
-[ ] Add Parts list
-[ ] Investigate Using an Electric Imp*
-[ ] Make setup and installation simpler
+* Finish writing README
+* Add Parts list
+* Investigate Using an Electric Imp*
+* Make setup and installation simpler
 
 *This will allow us to run the bot without a physical connection to the hardware 
 
