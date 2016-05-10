@@ -1,0 +1,27 @@
+{
+  "name": "yelling-bot",
+  "version": "0.1.0",
+  "description": "A Slack(Node)Bot to help you get people's attention when using @here.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cat-haines/yelling-bot.git"
+  },
+  "keywords": [
+    "johnny-five",
+    "slack",
+    "bot"
+  ],
+  "author": "Cat Haines",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cat-haines/yelling-bot/issues"
+  },
+  "dependencies": {
+    "botkit": "^0.1.1",
+    "johnny-five": "^0.9.32"
+  }
+}
